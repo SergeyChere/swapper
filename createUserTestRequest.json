@@ -1,0 +1,27 @@
+{
+  "id" : 321321,
+  "rating" : 5,
+  "firstName" : "Joe",
+  "lastName" : "Black",
+  "address" : "New-York, Broadway str. 231",
+  "items" : [
+    {
+      "id" : 456456,
+      "title" : "Apple",
+      "description" : "really  bad",
+      "condition" : "USED_BAD",
+      "photos" : [
+        "MTAzNDcxMDM0NzEwMzQ3MTAzNDcxMDM0NzEwMzQ3MTAzNDcxMDM0NzEwMzQ3"
+      ],
+      "estimatedPrice" : 2000,
+      "groups" : [
+        {
+          "title" : "computers",
+          "items" : [
+            null
+          ]
+        }
+      ]
+    }
+  ]
+}
